@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4ea3ecc4ce315bba210e61b846f38954$ -->
+<TextureAtlas imagePath="HD.png">
+    <SubTexture name="10_black" x="1942" y="1330" width="66" height="46" frameX="0" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="10_red" x="1971" y="1177" width="66" height="46" frameX="0" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="2_black" x="1931" y="1678" width="36" height="46" frameX="-15" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="2_red" x="2010" y="1330" width="36" height="46" frameX="-15" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="3_black" x="1971" y="1672" width="38" height="46" frameX="-13" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="3_red" x="1931" y="1630" width="38" height="46" frameX="-13" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="4_black" x="1993" y="1061" width="42" height="44" frameX="-11" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="4_red" x="1993" y="1015" width="42" height="44" frameX="-11" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="5_black" x="1988" y="1624" width="38" height="46" frameX="-14" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="5_red" x="1464" y="1344" width="38" height="46" frameX="-14" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="6_black" x="1464" y="1196" width="40" height="46" frameX="-13" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="6_red" x="1464" y="1148" width="40" height="46" frameX="-13" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="7_black" x="2011" y="1718" width="34" height="44" frameX="-15" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="7_red" x="2011" y="1672" width="34" height="44" frameX="-15" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="8_black" x="1464" y="1100" width="40" height="46" frameX="-12" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="8_red" x="1464" y="1052" width="40" height="46" frameX="-12" frameY="-10" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="9_black" x="1464" y="1004" width="40" height="46" frameX="-13" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="9_red" x="1464" y="956" width="40" height="46" frameX="-13" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="A_black" x="1993" y="965" width="44" height="48" frameX="-11" frameY="-8" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="A_red" x="1998" y="803" width="44" height="48" frameX="-11" frameY="-8" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="J_black" x="1464" y="1294" width="38" height="48" frameX="-14" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="J_red" x="1464" y="1244" width="38" height="48" frameX="-14" frameY="-9" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="K_black" x="1998" y="751" width="46" height="50" frameX="-10" frameY="-8" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="K_red" x="1998" y="699" width="46" height="50" frameX="-10" frameY="-8" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="Q_black" x="1998" y="639" width="48" height="58" frameX="-8" frameY="-4" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="Q_red" x="1998" y="579" width="48" height="58" frameX="-8" frameY="-4" frameWidth="66" frameHeight="66"/>
+    <SubTexture name="cardBack" x="648" y="705" width="238" height="306"/>
+    <SubTexture name="cardEmpty" x="648" y="397" width="238" height="306"/>
+    <SubTexture name="cardGlow" x="1722" y="224" width="294" height="353"/>
+    <SubTexture name="emptySlot" x="1675" y="1377" width="254" height="323"/>
+    <SubTexture name="frame" x="1971" y="1107" width="68" height="68"/>
+    <SubTexture name="mainMenuGameLogo" x="888" y="956" width="574" height="390"/>
+    <SubTexture name="mainMenuPicture" x="892" y="2" width="828" height="774"/>
+    <SubTexture name="mainMenuPlayButton" x="2" y="262" width="644" height="226"/>
+    <SubTexture name="mainMenuPlayButtonDown" x="2" y="490" width="644" height="210" frameX="0" frameY="-8" frameWidth="644" frameHeight="226"/>
+    <SubTexture name="mainMenuSimpleButton" x="2" y="702" width="644" height="160"/>
+    <SubTexture name="mainMenuSimpleButtonDown" x="2" y="864" width="644" height="154" frameX="0" frameY="-2" frameWidth="644" frameHeight="160"/>
+    <SubTexture name="minigameSipleButton" x="126" y="1348" width="418" height="139"/>
+    <SubTexture name="minigameSipleButtonDown" x="157" y="1764" width="418" height="135" frameX="0" frameY="-2" frameWidth="418" frameHeight="139"/>
+    <SubTexture name="popupBg" x="1931" y="1378" width="115" height="113"/>
+    <SubTexture name="popupHeader" x="888" y="778" width="627" height="176"/>
+    <SubTexture name="popupLine" x="2" y="2" width="888" height="5"/>
+    <SubTexture name="popupSimpleBUtton" x="1722" y="113" width="323" height="109"/>
+    <SubTexture name="popupSimpleBUttonDown" x="1722" y="2" width="323" height="109"/>
+    <SubTexture name="settingsButton" x="1942" y="1225" width="101" height="103"/>
+    <SubTexture name="settingsHintButton" x="1506" y="972" width="198" height="192"/>
+    <SubTexture name="settingsHintSelectedButton" x="1517" y="778" width="198" height="192"/>
+    <SubTexture name="settingsMovesModeButton" x="1717" y="957" width="274" height="124"/>
+    <SubTexture name="settingsMovesModeSelectedButton" x="1717" y="831" width="274" height="124"/>
+    <SubTexture name="settingsNoHintButton" x="499" y="1105" width="153" height="192"/>
+    <SubTexture name="settingsNoHintSelectedButton" x="344" y="1146" width="153" height="192"/>
+    <SubTexture name="settingsOneCardButton" x="2" y="1508" width="153" height="192"/>
+    <SubTexture name="settingsOneCardSelectedButton" x="2" y="1764" width="153" height="192"/>
+    <SubTexture name="settingsSliderBg" x="1677" y="1279" width="263" height="96"/>
+    <SubTexture name="settingsSliderButton" x="1931" y="1493" width="113" height="80"/>
+    <SubTexture name="settingsSliderOffButton" x="1677" y="1181" width="263" height="96"/>
+    <SubTexture name="settingsSliderOnButton" x="1706" y="1083" width="263" height="96"/>
+    <SubTexture name="settingsSoundOffButton" x="173" y="1156" width="169" height="169"/>
+    <SubTexture name="settingsSoundOffSelectedButton" x="2" y="1156" width="169" height="169"/>
+    <SubTexture name="settingsSoundOnButton" x="1504" y="1337" width="169" height="169"/>
+    <SubTexture name="settingsSoundOnSelectedButton" x="1506" y="1166" width="169" height="169"/>
+    <SubTexture name="settingsThreeCardsButton" x="660" y="203" width="226" height="192"/>
+    <SubTexture name="settingsThreeCardsSelectedButton" x="660" y="9" width="226" height="192"/>
+    <SubTexture name="settingsTimeModeButton" x="1722" y="705" width="274" height="124"/>
+    <SubTexture name="settingsTimeModeSelectedButton" x="1722" y="579" width="274" height="124"/>
+    <SubTexture name="splashLogo" x="2" y="9" width="656" height="251"/>
+    <SubTexture name="steelFeatherLogo" x="648" y="1013" width="234" height="90"/>
+    <SubTexture name="symbolBig_clubs" x="124" y="1020" width="134" height="134"/>
+    <SubTexture name="symbolBig_diamonds" x="2" y="1020" width="120" height="134" frameX="-7" frameY="0" frameWidth="134" frameHeight="134"/>
+    <SubTexture name="symbolBig_hearts" x="2" y="1392" width="122" height="104" frameX="-5" frameY="-15" frameWidth="134" frameHeight="134"/>
+    <SubTexture name="symbolBig_spades" x="260" y="1020" width="126" height="124" frameX="-4" frameY="-4" frameWidth="134" frameHeight="134"/>
+    <SubTexture name="symbolSmall_clubs" x="1993" y="853" width="53" height="53" frameX="-1" frameY="-1" frameWidth="55" frameHeight="55"/>
+    <SubTexture name="symbolSmall_diamonds" x="1993" y="908" width="51" height="55" frameX="-1" frameY="0" frameWidth="55" frameHeight="55"/>
+    <SubTexture name="symbolSmall_hearts" x="1988" y="1575" width="55" height="47" frameX="0" frameY="-3" frameWidth="55" frameHeight="55"/>
+    <SubTexture name="symbolSmall_spades" x="1931" y="1575" width="55" height="53" frameX="0" frameY="-1" frameWidth="55" frameHeight="55"/>
+    <SubTexture name="timerBg" x="157" y="1901" width="423" height="117"/>
+</TextureAtlas>

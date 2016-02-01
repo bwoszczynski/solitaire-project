@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.14.1" build="20150325" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_cbaf4b71d50b0bfbc0577c9a783dc1f9154abf61456d59abeec56d9279d442e3_flash_display_Sprite" mod="1430431068556" signatureChecksum="3234167831" >
+        <def id="_cbaf4b71d50b0bfbc0577c9a783dc1f9154abf61456d59abeec56d9279d442e3_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <script name="com/mesmotronic/ane/AndroidFullScreen" mod="1430430495503" signatureChecksum="37934645" >
+        <def id="com.mesmotronic.ane:AndroidFullScreen" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="flash.desktop:NativeApplication" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:Event" type="e" /> 
+        <dep id="Object" type="i" /> 
+        <dep id="AS3" type="n" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="674d3d3b3a7be4327e15181883688d2c7062055f6e6f69b58f9cbccbfaf7aa92"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
